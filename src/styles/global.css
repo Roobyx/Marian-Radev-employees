@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue',
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	background-color: #e8f0fb;
+}
